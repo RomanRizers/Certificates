@@ -17,3 +17,9 @@
 <p align="center">
   <img src="безопасность.png" alt="" />
 </p>
+
+# Инженер облачных сервисов
+<p align="center">
+  <img src="cloud_1.png" alt="" />
+  <img src="cloud_2.png" alt="" />
+</p>
